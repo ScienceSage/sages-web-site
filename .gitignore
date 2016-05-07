@@ -7,6 +7,9 @@
 # Ignore bundler config.
 /.bundle
 
+# ignore all configuration .yml files
+*.yml
+
 # Ignore all logfiles and tempfiles.
 /log/*
 !/log/.keep
